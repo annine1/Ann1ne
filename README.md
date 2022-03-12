@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Annine
+- 👋 Hi, I’m Annine Duclaire Kenne
 - 👀 I’m interested in Machine Learning, Data Science & Data Analytisc, AI, Deep Learning.
 - 🌱 I’m currently looking for experience in these fiedls. 
 - 💞️ I’m looking to collaborate with all the Senior Data Scientist from every where of the world.
